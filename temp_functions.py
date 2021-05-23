@@ -2,6 +2,7 @@
 This ile has two functions
 """
 
+
 def fahr_to_celsius(temp_fahrenheit):
   converted_temp=(temp_fahrenheit-32)/1.8
   return converted_temp
